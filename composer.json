@@ -1,0 +1,19 @@
+{
+    "name": "bugbuster/contao-grid_16-component",
+    "type": "contao-component",
+    "description": "Contao Grid_16 component",
+    "license": "MIT",
+    "authors": [
+        {
+			"name":"Glen Langer",
+			"homepage":"http://contao.ninja",
+			"role":"Developer"
+        }
+    ],
+    "require": {
+        "contao-components/installer": "^1.0.9"
+    },
+    "config": {
+        "component-dir": "assets/contao"
+    }
+}
