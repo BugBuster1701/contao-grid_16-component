@@ -15,7 +15,9 @@
     },
     "extra": {
 
-        "installer-name": "contao"
+        "installer-paths": {
+            "assets/contao/": ["bugbuster/contao-grid_16-component", "vendor/package"]
+        }
 
     }
 }
